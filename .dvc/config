@@ -2,4 +2,4 @@
     autostage = true
     remote = local
 ['remote "local"']
-    url = ../../test_remote
+    url = ../../test_reg_remote
