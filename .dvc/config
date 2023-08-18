@@ -1,5 +1,7 @@
 [core]
     autostage = true
-    remote = local
+    remote = nci
 ['remote "local"']
     url = ../../test_reg_remote
+['remote "nci"']
+    url = ssh://gadi-dm.nci.org.au/g/data/a56/dvc/remotes/imptest
